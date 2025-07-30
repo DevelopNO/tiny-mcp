@@ -1,0 +1,5 @@
+listen: ""
+jwt_secret: ""
+log_level: "info"
+policies:
+  teamA: ""

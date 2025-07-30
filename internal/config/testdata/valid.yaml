@@ -1,0 +1,6 @@
+listen: ":9000"
+jwt_secret: "testsecret"
+log_level: "info"
+policies:
+  teamA: "127.0.0.1:10001"
+  teamB: "127.0.0.1:10002"
